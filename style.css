@@ -6,7 +6,7 @@ h1 {font-size: 400%;
 }
 h1 {text-align: center;
 }
-#img {width: 30%;
+#img {width: 34%;
 }
 #img {margin-left: 34%;
 }
@@ -24,7 +24,7 @@ h3 {text-align: center;
 }
 h3 {border:solid 3px brown
 }
-#imgg {width: 20%;
+#imgg {width: 24%;
 }
 #imgg {margin-left: 28%;
 }
@@ -40,7 +40,7 @@ h4 {font-size: 200%;
 }
 h4 {border: solid 3px brown;
 }
-#imggg {width: 20%;
+#imggg {width: 24%;
 }
 #imggg {margin-left: 29%;
 }
@@ -54,7 +54,7 @@ h5 {font-size: 200%;
 }
 h5 {border: solid 3px brown;
 }
-#im4g {width: 19%;
+#im4g {width: 21%;
 }
 #im4g {margin-left: 27%;
 }
@@ -65,4 +65,6 @@ h6 {text-align: center;
 h6 {font-size: 300%;
 }
 h6 {color: rgb(73, 33, 5);
+}
+h1 {border: solid 3px brown;
 }
